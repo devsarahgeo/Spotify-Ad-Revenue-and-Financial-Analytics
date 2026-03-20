@@ -108,7 +108,10 @@ Note:
 
 Power BI Report Snapshot:
 
-<img width="1427" height="804" alt="Screenshot 2026-02-24 at 12 50 15 PM" src="https://github.com/user-attachments/assets/d001172f-f341-4d07-bb89-1d4b0c546444" />
+<img width="1430" height="800" alt="Screenshot 2026-03-20 at 1 45 33 PM" src="https://github.com/user-attachments/assets/34645432-e8db-4cfd-8216-4606edd7d251" />
+<img width="1421" height="783" alt="Screenshot 2026-03-20 at 1 45 45 PM" src="https://github.com/user-attachments/assets/789aaea6-e9bc-4e19-aefc-7786ad2b8f5a" />
+<img width="1425" height="788" alt="Screenshot 2026-03-20 at 1 46 07 PM" src="https://github.com/user-attachments/assets/ac3c94da-0138-4a25-9962-b4e84421df62" />
+
 
 ---
 
