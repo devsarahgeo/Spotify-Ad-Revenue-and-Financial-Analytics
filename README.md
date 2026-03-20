@@ -114,7 +114,7 @@ Power BI Report Snapshot:
 
 ## 📊 Business Insights & Recommendations
 
-<img width="1375" height="420" alt="Screenshot 2026-02-24 at 1 49 15 PM" src="https://github.com/user-attachments/assets/4c1c8aba-c033-4d1b-a9d6-d0bc952db00f" />
+<!-- <img width="1375" height="420" alt="Screenshot 2026-02-24 at 1 49 15 PM" src="https://github.com/user-attachments/assets/4c1c8aba-c033-4d1b-a9d6-d0bc952db00f" /> -->
 
 - February recorded the lowest ad revenue ($614) due to fewer streams compared to other months. Business & Comedy genre podcasts drive 64% of gross margin, **since revenue peaks in January, prioritizing their promotion during this month would maximize ad revenue impact**
 
