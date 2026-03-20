@@ -116,6 +116,12 @@ Power BI Report Snapshot:
 
 <img width="1375" height="420" alt="Screenshot 2026-02-24 at 1 49 15 PM" src="https://github.com/user-attachments/assets/4c1c8aba-c033-4d1b-a9d6-d0bc952db00f" />
 
+February recorded the lowest ad revenue ($614) due to fewer streams compared to other months. Business & Comedy genre podcasts drive 64% of gross margin, **since revenue peaks in January, prioritizing their promotion during this month would maximize ad revenue impact**
+
+**Maximize January's peak ad revenue period by promoting top-performing content, specifically high-margin titles like Technology podcast and high-stream tracks like Pop** , through high-follower playlist placement and targeted marketing campaigns
+
+B.o.B currently generates $35 in ad revenue. **A 20% increase in streams through playlist promotion could yield $42 which is an additional $7 uplift**. With CPM fixed at $5, every 1,000 additional streams generates $5 in incremental revenue for tracks.
+
 ---
 
 ## ⚡ Future Scope - Scalable Implementation 
