@@ -110,10 +110,14 @@ Power BI Report Snapshot:
 
 <img width="1419" height="804" alt="Screenshot 2026-03-20 at 1 48 06 PM" src="https://github.com/user-attachments/assets/e01ed52e-fc65-4d96-9f24-71a2718a3f08" />
 
-Filtered by podcast:
+
+**Filtered by podcast:**
+
 <img width="1421" height="783" alt="Screenshot 2026-03-20 at 1 45 45 PM" src="https://github.com/user-attachments/assets/789aaea6-e9bc-4e19-aefc-7786ad2b8f5a" />
 
-Filtered by music:
+
+**Filtered by music:**
+
 <img width="1425" height="788" alt="Screenshot 2026-03-20 at 1 46 07 PM" src="https://github.com/user-attachments/assets/ac3c94da-0138-4a25-9962-b4e84421df62" />
 
 
@@ -123,12 +127,14 @@ Filtered by music:
 
 <!-- <img width="1375" height="420" alt="Screenshot 2026-02-24 at 1 49 15 PM" src="https://github.com/user-attachments/assets/4c1c8aba-c033-4d1b-a9d6-d0bc952db00f" /> -->
 
-- February recorded the lowest ad revenue ($614) due to fewer streams compared to other months. Business & Comedy genre podcasts drive 64% of gross margin,
+- February recorded the lowest ad revenue ($614) due to fewer streams compared to other months. Business & Comedy genre podcasts drive 64% of gross margin
+  
   **Recommendation**: Since ad revenue peaks in January, prioritize the promotion of below during this month would maximize ad revenue impact
     - Business & Comedy genre podcasts
     - top content like Pop music and Technology podcasts 
 
 - B.o.B outperforms the next artist by 2.7x in ad revenue ($35 vs $13)
+  
   **Recommendation**: Prioritize catalog licensing and new release investment to scale this advantage
   A 20% increase in streams through playlist promotion could yield $42 which is an additional $7 uplift. With CPM fixed at $5, every 1,000 additional streams generates $5 in incremental revenue for tracks.
 
@@ -137,6 +143,7 @@ Filtered by music:
           Uplift = 42 - 35 = $7 (20%)
 
 - For contents with minimal financial return like music named "Rocky Bhai" and podcast named "Live with Professor Nez"
+  
   **Recommendation**: reallocate promotional investment toward high margin performers
 
 ---
