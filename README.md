@@ -54,18 +54,14 @@ What is the impact of a 5–10% CPM change on revenue?
 ---
 
 ## 🧠 Skills & Tech Stack
-| Layer | Tool / Tech | What I did |
-|-------|-------------|------------|
-| Ingestion | Spotify Web API + Python | Extracted track & podcast data via API, dumped raw tables to GCS |
-| Ingestion | Google Cloud Storage | Raw data store — staging area before loading into BigQuery |
-| Transform | Google BigQuery | Cloud data warehouse — hosts all raw, intermediate and mart tables |
-| Transform | dbt — Staging | Standardized raw tables, column renaming, clean reusable source models |
-| Transform | dbt — Intermediate | Business logic and joins across staging models |
-| Transform | dbt — Marts | Production-ready dim/fct tables consumed directly by Power BI |
-| Transform | dbt — Seeds, Macros, Tests | CPM reference data; reusable SQL macros; schema + custom tests across all layers |
-| Analytics | Python (EDA notebook) | Data exploration; revenue simulation using track popularity as stream proxy |
-| Analytics | Scenario Modeling | Driver-based model projecting uplift under 10–20% stream growth and 5–10% CPM change |
-| Visualization | Power BI + DAX | MoM% revenue change, dynamic min/max points, content type slicer |
+| Layer | Tool | Detail |
+|-------|------|--------|
+| Dataset | Spotify Web API | Tracks & podcasts — popularity, streams (simulated), impressions, CPM ($5 tracks · $10 podcasts) |
+| Data Lake | Google Cloud Storage | Raw data store — staging area before loading into BigQuery |
+| Warehouse | Google BigQuery | Cloud data warehouse — hosts raw, intermediate and mart tables |
+| Transform | dbt | Staging · Intermediate · Marts · Seeds (CPM rates) · Macros · Schema + custom tests |
+| Analytics | Python | EDA notebook · Revenue simulation · Scenario modeling (10–20% stream growth, 5–10% CPM change) |
+| Visualization | Power BI + DAX | MoM% revenue · Dynamic min/max · Content type slicer · Scatter plot quadrants · Scenario projections |
 
 ---
 
