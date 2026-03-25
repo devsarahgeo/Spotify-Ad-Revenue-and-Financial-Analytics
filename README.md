@@ -135,7 +135,7 @@ Power BI Report Snapshot:
 | "Rocky Bhai" and "#NEZNATION" show lowest gross margin | Low-margin content destroys ROI | Reallocate budget toward "Technology" podcast and "POP" music which drive the highest gross margin| 
 
 > *Revenue figures based on simulated data. CPM assumed $5 tracks, $10 podcasts. Dollar amounts illustrative, not actual Spotify revenue.*
-> * Calculation for tracks,  based on fixed CPM of $5 for music:
+> *Calculation for tracks,  based on fixed CPM of $5 for music:
     Assumption: 20% stream increase, Current B.o.B ad Revenue = 35, Projected B.o.B ad Revenue = 35 × 1.20 = 42
     Uplift = 42 - 35 = $7 (20%)*
 
