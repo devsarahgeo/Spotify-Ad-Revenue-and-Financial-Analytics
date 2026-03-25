@@ -56,11 +56,11 @@ What is the impact of a 5–10% CPM change on revenue?
 ## 🧠 Skills & Tech Stack
 | Layer | Tool | Detail |
 |-------|------|--------|
-| Dataset | Spotify Web API | Tracks & podcasts — popularity, streams (simulated), impressions, CPM ($5 tracks · $10 podcasts) |
-| Data Lake | Google Cloud Storage | Raw data store — staging area before loading into BigQuery |
-| Warehouse | Google BigQuery | Cloud data warehouse — hosts raw, intermediate and mart tables |
-| Transform | dbt | Staging · Intermediate · Marts · Seeds (CPM rates) · Macros · Schema + custom tests |
-| Analytics | Python | EDA notebook · Revenue simulation · Scenario modeling (10–20% stream growth, 5–10% CPM change) |
+| Dataset | Spotify Web API | Tracks & podcasts - popularity, streams, impressions, CPM|
+| Data Lake | Google Cloud Storage | Raw data store - staging area before loading into BigQuery |
+| Warehouse | Google BigQuery | Cloud data warehouse - hosts raw, intermediate and mart tables |
+| Transform | dbt | Staging · Intermediate · Marts · Seeds· Macros · Schema + custom tests |
+| Analytics | Python | Revenue simulation · Scenario modeling |
 | Visualization | Power BI + DAX | MoM% revenue · Dynamic min/max · Content type slicer · Scatter plot quadrants · Scenario projections |
 
 ---
@@ -129,13 +129,15 @@ Power BI Report Snapshot:
 
 | Finding | Business Impact | Recommendation | Priority |
 |---------|----------------|----------------|----------|
-| Business & Comedy podcasts drive ~64% of gross margin | Profitability concentrated in 2 genres | Prioritize promotion in January when ad revenue peaks | High |
-| B.o.B outperforms next artist by 2.7x ($35 vs $13) | Single artist drives music ad revenue | Prioritize catalog licensing + playlist placement | High |
-| February lowest ad revenue ($614) — MoM decline 8.55% | Predictable seasonal revenue gap | Run curated playlist promotions in Feb | Medium |
-| Every 1,000 streams = $5 incremental revenue | Stream volume is a direct revenue lever | Invest in playlist promotion for high popularity tracks | Medium |
-| "Rocky Bhai" and "#NEZNATION" show lowest gross margin | Low-margin content destroys ROI | Reallocate budget toward Technology podcasts and POP | Quick win |
+| Business & Comedy podcasts drive ~64% of gross margin | Profitability concentrated in 2 genres | Prioritize promotion in January when ad revenue peaks |
+| B.o.B outperforms next artist by 2.7x ($35 vs $13) | Single artist drives music ad revenue | Prioritize catalog licensing + playlist placement. A 20% increase in streams through playlist promotion could yield $42 which is an additional $7 uplift. With CPM fixed at $5, every 1,000 additional streams generates $5 in incremental revenue for tracks.| 
+| February lowest ad revenue ($614) — MoM decline 8.55% | Predictable seasonal revenue gap | Run curated playlist promotions in Feb. Promote high-margin content types like Business & Comedy podcasts in February to offset seasonal stream decline| 
+| "Rocky Bhai" and "#NEZNATION" show lowest gross margin | Low-margin content destroys ROI | Reallocate budget toward Technology podcasts and POP | 
 
 > *Revenue figures based on simulated data. CPM assumed $5 tracks, $10 podcasts. Dollar amounts illustrative, not actual Spotify revenue.*
+> * Calculation for tracks,  based on fixed CPM of $5 for music:
+    Assumption: 20% stream increase, Current B.o.B ad Revenue = 35, Projected B.o.B ad Revenue = 35 × 1.20 = 42
+    Uplift = 42 - 35 = $7 (20%)*
 
 ---
 
