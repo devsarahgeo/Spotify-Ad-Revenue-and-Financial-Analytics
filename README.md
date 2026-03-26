@@ -113,12 +113,12 @@ Power BI Report Snapshot:
 
 **Filtered by podcast:**
 
-<img width="1421" height="783" alt="Screenshot 2026-03-20 at 1 45 45 PM" src="https://github.com/user-attachments/assets/789aaea6-e9bc-4e19-aefc-7786ad2b8f5a" />
+<img width="1429" height="797" alt="Screenshot 2026-03-26 at 12 16 56 PM" src="https://github.com/user-attachments/assets/7a01cad0-6162-4a3b-a885-6348aebfd457" />
 
 
 **Filtered by music:**
 
-<img width="1425" height="788" alt="Screenshot 2026-03-20 at 1 46 07 PM" src="https://github.com/user-attachments/assets/ac3c94da-0138-4a25-9962-b4e84421df62" />
+<img width="1427" height="798" alt="Screenshot 2026-03-26 at 12 16 39 PM" src="https://github.com/user-attachments/assets/601355de-96c0-477b-ad8b-a3aa9fc811e9" />
 
 
 ---
