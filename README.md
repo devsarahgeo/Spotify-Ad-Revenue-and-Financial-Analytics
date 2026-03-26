@@ -110,7 +110,8 @@ Power BI Report Snapshot:
 
 <img width="1419" height="804" alt="Screenshot 2026-03-20 at 1 48 06 PM" src="https://github.com/user-attachments/assets/e01ed52e-fc65-4d96-9f24-71a2718a3f08" />
 
-Different charts to see content names performing well by revenue and gross profit
+
+Charts to see which content names are performing well by revenue and gross profit.
 
 **Filtered by podcast:**
 
@@ -127,6 +128,8 @@ Different charts to see content names performing well by revenue and gross profi
 ## 📊 Business Insights & Recommendations
 
 <!-- <img width="1375" height="420" alt="Screenshot 2026-02-24 at 1 49 15 PM" src="https://github.com/user-attachments/assets/4c1c8aba-c033-4d1b-a9d6-d0bc952db00f" /> -->
+
+Identified that top revenue-generating content also drove the highest gross profit for the contents, highlighting a strong correlation between revenue and margin performance
 
 | Finding | Business Impact | Recommendation | 
 |---------|----------------|----------------|
