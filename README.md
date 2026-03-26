@@ -110,6 +110,7 @@ Power BI Report Snapshot:
 
 <img width="1419" height="804" alt="Screenshot 2026-03-20 at 1 48 06 PM" src="https://github.com/user-attachments/assets/e01ed52e-fc65-4d96-9f24-71a2718a3f08" />
 
+Different charts to see content names performing well by revenue and gross profit
 
 **Filtered by podcast:**
 
@@ -132,7 +133,7 @@ Power BI Report Snapshot:
 | Business & Comedy podcasts drive ~64% of gross margin | Profitability concentrated in 2 genres | Prioritize promotion in January when ad revenue peaks |
 | B.o.B outperforms next artist by 2.7x ($35 vs $13) | Single artist drives music ad revenue | Prioritize catalog licensing + playlist placement. A 20% increase in streams through playlist promotion could yield $42 which is an additional $7 uplift. With CPM fixed at $5, every 1,000 additional streams generates $5 in incremental revenue for tracks.| 
 | February lowest ad revenue ($614) — MoM decline 8.55% | Predictable seasonal revenue gap | Run curated playlist promotions in Feb. Promote high-margin content types like Business & Comedy podcasts in February to offset seasonal stream decline| 
-| "Rocky Bhai" and "#NEZNATION" show lowest gross margin | Low-margin content destroys ROI | Reallocate budget toward "Technology" podcast and "POP" music which drive the highest gross margin| 
+| "Hip Hop Yoga Bop" music and "Paint for America Mastermind" podcast show lowest gross margin | Low-margin content destroys ROI | Reallocate budget toward "Business of Practice Podcast" podcast and "Issues" music which drive the highest gross margin| 
 
 > * Revenue figures based on simulated data. CPM assumed $5 tracks, $10 podcasts. Dollar amounts illustrative, not actual Spotify revenue.*
 > * Calculation for tracks,  based on fixed CPM of $5 for music:
