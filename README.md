@@ -129,6 +129,7 @@ Next 2 Charts are - to see which content names are performing well/not performin
 
 <!-- <img width="1375" height="420" alt="Screenshot 2026-02-24 at 1 49 15 PM" src="https://github.com/user-attachments/assets/4c1c8aba-c033-4d1b-a9d6-d0bc952db00f" /> -->
 
+Identified that top revenue-generating content also drove the highest gross profit, highlighting a strong correlation between revenue and margin performance
 
 | Finding | Business Impact | Recommendation | 
 |---------|----------------|----------------|
