@@ -115,13 +115,12 @@ Charts to see which content names are performing well by revenue and gross profi
 
 **Filtered by podcast:**
 
-<img width="1429" height="797" alt="Screenshot 2026-03-26 at 12 16 56 PM" src="https://github.com/user-attachments/assets/7a01cad0-6162-4a3b-a885-6348aebfd457" />
+<img width="1428" height="799" alt="Screenshot 2026-03-26 at 12 28 49 PM" src="https://github.com/user-attachments/assets/2ecbfc6c-541b-41b3-8c58-28190fba3f32" />
 
 
 **Filtered by music:**
 
-<img width="1427" height="798" alt="Screenshot 2026-03-26 at 12 16 39 PM" src="https://github.com/user-attachments/assets/601355de-96c0-477b-ad8b-a3aa9fc811e9" />
-
+<img width="1424" height="794" alt="Screenshot 2026-03-26 at 12 29 26 PM" src="https://github.com/user-attachments/assets/98d81e7e-b522-4eb2-b1a9-9e315767eef9" />
 
 ---
 
