@@ -111,7 +111,7 @@ Power BI Report Snapshot:
 <img width="1419" height="804" alt="Screenshot 2026-03-20 at 1 48 06 PM" src="https://github.com/user-attachments/assets/e01ed52e-fc65-4d96-9f24-71a2718a3f08" />
 
 
-Charts to see which content names are performing well by revenue and gross profit.
+Next 2 Charts are - to see which content names are performing well by revenue and gross profit.
 
 **Filtered by podcast:**
 
