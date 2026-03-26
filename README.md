@@ -136,7 +136,7 @@ Identified that top revenue-generating content also drove the highest gross prof
 | Business & Comedy podcasts drive ~64% of gross margin | Profitability concentrated in 2 genres | Prioritize promotion in January when ad revenue peaks |
 | B.o.B outperforms next artist by 2.7x ($35 vs $13) | Single artist drives music ad revenue | Prioritize catalog licensing + playlist placement. A 20% increase in streams through playlist promotion could yield $42 which is an additional $7 uplift. With CPM fixed at $5, every 1,000 additional streams generates $5 in incremental revenue for tracks.| 
 | February lowest ad revenue ($614) — MoM decline 8.55% | Predictable seasonal revenue gap | Run curated playlist promotions in Feb. Promote high-margin content types like Business & Comedy podcasts in February to offset seasonal stream decline| 
-| "Rocky Bhai" music and "PNeznation live with Professor Nez" podcast show lowest gross margin | Low-margin content destroys ROI | Reallocate budget toward "Technology" podcast and "Pop" music which drive the highest gross margin| 
+| "Rocky Bhai" music and "Neznation live with Professor Nez" podcast show lowest gross margin | Low-margin content destroys ROI | Reallocate budget toward "Technology" podcast and "Pop" music which drive the highest gross margin| 
 
 > * Revenue figures based on simulated data. CPM assumed $5 tracks, $10 podcasts. Dollar amounts illustrative, not actual Spotify revenue.*
 > * Calculation for tracks,  based on fixed CPM of $5 for music:
