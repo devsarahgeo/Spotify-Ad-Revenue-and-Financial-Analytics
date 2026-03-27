@@ -115,14 +115,14 @@ Next 2 Charts are - to see which content names are performing well/not performin
 
 **Filtered by podcast:**
 
-<img width="1420" height="780" alt="Screenshot 2026-03-26 at 2 31 06 PM" src="https://github.com/user-attachments/assets/b74bf7f2-8143-4d90-baa8-41dcf2ce4bc4" />
+<img width="1421" height="796" alt="Screenshot 2026-03-27 at 8 42 36 AM" src="https://github.com/user-attachments/assets/5e5ea81f-29c0-4b61-83c6-29e3f6062090" />
 
 
 **Filtered by music:**
 
-<img width="1425" height="785" alt="Screenshot 2026-03-26 at 2 30 34 PM" src="https://github.com/user-attachments/assets/6921a8ae-8c5b-449c-8fd7-ec36e8b9f902" />
+<img width="1425" height="788" alt="Screenshot 2026-03-27 at 8 42 23 AM" src="https://github.com/user-attachments/assets/982001b5-50b5-4fce-97d0-207f90f4e87a" />
 
-
+The relatively small revenue values suggest the dataset is modeled at a low stream-volume
 ---
 
 ## 📊 Business Insights & Recommendations
