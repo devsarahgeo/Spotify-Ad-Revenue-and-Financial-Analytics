@@ -122,7 +122,7 @@ Next 2 Charts are - to see which content names are performing well/not performin
 
 <img width="1425" height="788" alt="Screenshot 2026-03-27 at 8 42 23 AM" src="https://github.com/user-attachments/assets/982001b5-50b5-4fce-97d0-207f90f4e87a" />
 
-The relatively small revenue values suggest the dataset is modeled at a low stream-volume
+The relatively small revenue/profit values suggest the dataset is modeled at a low stream-volume
 ---
 
 ## 📊 Business Insights & Recommendations
