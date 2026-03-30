@@ -114,13 +114,13 @@ Power BI Report Snapshot:
 Next 2 Charts are - to see which content names are performing well/not performing well by revenue and gross profit.
 
 **Filtered by podcast:**
-
-<img width="1421" height="796" alt="Screenshot 2026-03-27 at 8 42 36 AM" src="https://github.com/user-attachments/assets/5e5ea81f-29c0-4b61-83c6-29e3f6062090" />
+<img width="1425" height="791" alt="Screenshot 2026-03-30 at 2 58 47 PM" src="https://github.com/user-attachments/assets/808d3dd0-f7fd-440d-b1ef-33bd8e9591b1" />
 
 
 **Filtered by music:**
+<img width="1421" height="795" alt="Screenshot 2026-03-30 at 2 58 27 PM" src="https://github.com/user-attachments/assets/037267b2-298c-457b-8187-a03a7f786ff2" />
 
-<img width="1425" height="788" alt="Screenshot 2026-03-27 at 8 42 23 AM" src="https://github.com/user-attachments/assets/982001b5-50b5-4fce-97d0-207f90f4e87a" />
+
 
 The relatively small revenue/profit values suggest the dataset is modeled at a low stream-volume
 ---
