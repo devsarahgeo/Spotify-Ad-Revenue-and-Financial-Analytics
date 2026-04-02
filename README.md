@@ -108,18 +108,21 @@ Note:
 
 Power BI Report Snapshot:
 
-<img width="1419" height="804" alt="Screenshot 2026-03-20 at 1 48 06 PM" src="https://github.com/user-attachments/assets/e01ed52e-fc65-4d96-9f24-71a2718a3f08" />
+<img width="1424" height="802" alt="Screenshot 2026-04-01 at 11 24 39 PM" src="https://github.com/user-attachments/assets/dda78eac-5dc1-490a-b7e4-4bd009230905" />
 
-
+<br>
+<br>
 Next 2 Charts are - to see which content names are performing well/not performing well by revenue and gross profit.
+<br>
+<br>
 
 **Filtered by podcast:**
-<img width="1425" height="791" alt="Screenshot 2026-03-30 at 2 58 47 PM" src="https://github.com/user-attachments/assets/808d3dd0-f7fd-440d-b1ef-33bd8e9591b1" />
+<img width="1424" height="793" alt="Screenshot 2026-04-01 at 11 25 00 PM" src="https://github.com/user-attachments/assets/3d621f3b-2bab-4ce8-994a-fc8abf20607e" />
 
-
+<br>
+<br>
 **Filtered by music:**
-<img width="1421" height="795" alt="Screenshot 2026-03-30 at 2 58 27 PM" src="https://github.com/user-attachments/assets/037267b2-298c-457b-8187-a03a7f786ff2" />
-
+<img width="1427" height="797" alt="Screenshot 2026-04-01 at 11 25 11 PM" src="https://github.com/user-attachments/assets/08faa110-4d93-4aa0-880f-e54412cf97f7" />
 
 
 The relatively small revenue/profit values suggest the dataset is modeled at a low stream-volume
